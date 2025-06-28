@@ -1,6 +1,6 @@
-# Rflix Clone
+# Rflix - Movies Streaming Website
 
-A modern, responsive Rflix-like streaming website built with HTML, CSS, and JavaScript. This project recreates the look and feel of a streaming platform interface with smooth animations, hover effects, and interactive features.
+A modern, responsive Netflix-like streaming website built with HTML, CSS, and JavaScript. This project recreates the look and feel of a streaming platform interface with smooth animations, hover effects, and interactive features.
 
 ## 🎬 Features
 
